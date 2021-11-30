@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gourav </h1>
 <h3 align="center">A frontend developer and graphic designer from India</h3>
 
-- 👨‍💻 All of my projects are available at [soon...](soon...)
+- 👨‍💻 Check out my portfolio(still in progress...) (https://seek4samurai.herokuapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
