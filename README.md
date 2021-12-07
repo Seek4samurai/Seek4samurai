@@ -204,6 +204,3 @@
     />
   </a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seek4samurai&show_icons=true&theme=dark&title_color=ffdd00&text_color=a1a1a1&bg_color=000000&locale=en&layout=compact" alt="seek4samurai" /></p>
