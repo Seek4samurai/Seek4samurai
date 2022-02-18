@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gourav </h1>
-<h3 align="center">A frontend developer and graphic designer from India</h3>
+<h3 align="center">A Developer and UI/UX designer from India</h3>
 
 - 👨‍💻 Check out my portfolio [here](https://seek4samurai.vercel.app/)
 
@@ -57,10 +57,42 @@
       height="40"
     />
   </a>
+  <a
+    href="https://www.typescriptlang.org/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://nextjs.org/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"
+      alt="nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"
+      alt="reactjs"
       width="40"
       height="40"
     />
@@ -189,6 +221,30 @@
   >
     <img
       src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
+      alt="xd"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://docs.soliditylang.org/en/v0.8.12/#"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://docs.soliditylang.org/en/v0.8.12/_static/logo.svg"
+      alt="xd"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://ethereum.org/en/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/0/01/Ethereum_logo_translucent.svg"
       alt="xd"
       width="40"
       height="40"
