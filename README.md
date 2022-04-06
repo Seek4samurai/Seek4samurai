@@ -45,6 +45,14 @@
       height="40"
     />
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -69,30 +77,66 @@
       height="40"
     />
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+      alt="reactjs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://firebase.google.com/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"
+      alt="Firebase"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a
+    href="https://www.heroku.com/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.svgrepo.com/show/303683/heroku-logo.svg"
+      alt="Heroku"
+      width="40"
+      height="40"
+    />
   <a
     href="https://nextjs.org/"
     target="_blank"
     rel="noreferrer"
   >
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"
+      src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"
       alt="nextjs"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <a
+    href="https://vercel.com/"
+    target="_blank"
+    rel="noreferrer"
+  >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
+      src="https://www.svgrepo.com/show/327408/logo-vercel.svg"
+      alt="Vercel"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"
-      alt="reactjs"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
       width="40"
       height="40"
     />
@@ -163,7 +207,7 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+      src="https://cdn.worldvectorlogo.com/logos/django.svg"
       alt="django"
       width="40"
       height="40"
