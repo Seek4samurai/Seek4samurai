@@ -2,6 +2,8 @@
 <h3 align="center">A Developer and UI/UX designer from India</h3>
 
 - 👨‍💻 Check out my portfolio [here](https://seek4samurai.vercel.app/)
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=seek4samurai&label=Profile%20views&color=0e75b6&style=flat" alt="seek4samurai" /> </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
