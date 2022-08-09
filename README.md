@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Gourav </h1>
+<h1 align="center">Hi 👋, I'm Gourav</h1>
 <h3 align="center">A Developer and UI/UX designer from India</h3>
 
-- 👨‍💻 Check out my portfolio [here](https://seek4samurai.vercel.app/)
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=seek4samurai&label=Profile%20views&color=0e75b6&style=flat" alt="seek4samurai" /> </p>
-
+- 👨‍💻 Check out my portfolio [here](https://seek4samurai.vercel.app/) -
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=seek4samurai&label=Profile%20views&color=0e75b6&style=flat"
+    alt="seek4samurai"
+  />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -67,11 +71,7 @@
       height="40"
     />
   </a>
-  <a
-    href="https://www.typescriptlang.org/"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
       alt="typescript"
@@ -87,11 +87,7 @@
       height="40"
     />
   </a>
-  <a
-    href="https://firebase.google.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"
       alt="Firebase"
@@ -99,45 +95,33 @@
       height="40"
     />
   </a>
-    <a
-    href="https://www.heroku.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/303683/heroku-logo.svg"
       alt="Heroku"
       width="40"
       height="40"
     />
-  <a
-    href="https://nextjs.org/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://vercel.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.svgrepo.com/show/327408/logo-vercel.svg"
-      alt="Vercel"
-      width="40"
-      height="40"
-    />
-  </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png"
+        alt="nextjs"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://pbs.twimg.com/profile_images/1252531684353998848/6R0-p1Vf_400x400.jpg"
+        alt="Vercel"
+        width="40"
+        height="40"
+      />
+    </a>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"
       alt="nodejs"
       width="40"
       height="40"
@@ -145,7 +129,7 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg"
       alt="mongodb"
       width="40"
       height="40"
@@ -161,7 +145,7 @@
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+      src="https://images-na.ssl-images-amazon.com/images/I/41QodfboFdL.png"
       alt="oracle"
       width="40"
       height="40"
@@ -169,7 +153,7 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://www.nextontop.com/assets/img/services/web/expressjs.svg"
       alt="express"
       width="40"
       height="40"
@@ -278,20 +262,184 @@
     rel="noreferrer"
   >
     <img
-      src="https://docs.soliditylang.org/en/v0.8.12/_static/logo.svg"
-      alt="xd"
+      src="https://ph-files.imgix.net/d57acc99-e1d2-4587-bcdc-ea7a6d0e3db2.jpeg"
+      alt="solidity"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/0/01/Ethereum_logo_translucent.svg"
+      alt="ethereum"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://solana.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=023"
+      alt="solana"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/2/20/Rustacean-orig-noshadow.svg"
+      alt="rust"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.nmap.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://nmap.org/images/nmap-logo-256x256.png"
+      alt="nmap"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.wireshark.org/assets/images/sflogo.png"
+      alt="wireshark"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.kali.org/images/tool-logo-metasploit.svg"
+      alt="metasploit"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png"
+      alt="metamask"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://phantom.app/" target="_blank" rel="noreferrer">
+    <img
+      src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/sqzgmbkggvc1uwgapeuy"
+      alt="phantom"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://trufflesuite.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://trufflesuite.com/assets/logo.png"
+      alt="truffle"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png"
+      alt="hardhat"
+      width="50"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://eth-brownie.readthedocs.io/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://miro.medium.com/max/494/0*xQ_UNKBVoMgX5ND1.png"
+      alt="eth-brownie"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://moralis.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://moralis.io/wp-content/uploads/2021/06/cropped-Moralis-Favicon-Glass.png"
+      alt="moralis"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://appwrite.io/images-ee/press/square-logo-pink.svg"
+      alt="appwrite"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.maltego.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.kali.org/images/tool-logo-maltego.svg"
+      alt="maltego"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://sqlmap.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.kali.org/images/tool-logo-sqlmap.svg"
+      alt="aircrack-ng"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.kali.org/images/tool-logo-aircrack-ng.svg"
+      alt="aircrack-ng"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://mitmproxy.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://avatars.githubusercontent.com/u/4652787?s=280&v=4"
+      alt="mitmproxy"
       width="40"
       height="40"
     />
   </a>
   <a
-    href="https://ethereum.org/en/"
+    href="https://github.com/Veil-Framework/Veil"
     target="_blank"
     rel="noreferrer"
   >
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/01/Ethereum_logo_translucent.svg"
-      alt="xd"
+      src="https://www.kali.org/tools/veil/images/veil-logo.svg"
+      alt="mitmproxy"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png"
+      alt="mitmproxy"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://owasp.org/www-project-zap/" target="_blank" rel="noreferrer">
+    <img
+      src="https://avatars.githubusercontent.com/u/6716868?s=280&v=4"
+      alt="mitmproxy"
       width="40"
       height="40"
     />
